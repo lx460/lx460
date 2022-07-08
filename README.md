@@ -6,7 +6,7 @@
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lx460)](https://solved.ac/lx460)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lx460&layout=compact)](https://github.com/lx460/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lx460&exclude_repo=github-readme-stats,lx460.github.io&layout=compact&theme=vision-friendly-dark)](https://github.com/lx460)
 
 </div>
 <!--
